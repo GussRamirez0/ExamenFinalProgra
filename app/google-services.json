@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "568786549793",
+    "project_id": "labequiposapp",
+    "storage_bucket": "labequiposapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568786549793:android:48ab7dba04df52b09e7760",
+        "android_client_info": {
+          "package_name": "com.company.labequiposapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC2jgYAW_yRrLCWkCXw9w7kLzVQ9SFdZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
